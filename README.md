@@ -6,6 +6,7 @@ Members
   - Jonah HiderMan
   - Tommy Madden
   - Mason Holland
+  - Rachel Mansoor
   
 ---
 
